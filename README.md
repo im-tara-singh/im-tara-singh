@@ -133,7 +133,7 @@ I'm always interested in discussing technology, system design, AI/ML research, o
   
 ### 💭 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
 
-![Profile Views](https://hitscounter.dev/api/count/incr/badge.svg?url=https://github.com/im-tara-singh&title=Profile%20Views)
+![Profile Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fim-tara-singh&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 </div>
 
